@@ -13,9 +13,17 @@ Small business owners waste **45–90 minutes per Instagram post** — editing p
 
 ## 🎥 Demo Video
 
-The video covers the complete flow: sending a photo on Telegram → AI image editing → caption generation → approval → live Instagram post in under 60 seconds.
+<div>
+    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
+      <p></p>
+    </a>
+    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/796f743b826a425bbccdd0b89f05bb07-b96e6b9358d0f4d5.jpg#t=0.1">
+    </a>
+  </div>
 
 ---
+
 
 ## 🗺️ High-Level N8N Workflow
 
