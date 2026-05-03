@@ -22,12 +22,13 @@ Small business owners waste **45–90 minutes per Instagram post** — editing p
     </a>
   </div>
 
+> ▶️ Click the image above to watch the full demo — one photo, one prompt, live on Instagram in under 60 seconds. No agency. No designer. Just automation.
 ---
 
 
 ## 🗺️ High-Level N8N Workflow
 
-
+![highlevel](highlevel.png)
 ---
 
 ## 💼 Use Case
