@@ -29,6 +29,7 @@ Small business owners waste **45–90 minutes per Instagram post** — editing p
 ## 🗺️ High-Level N8N Workflow
 
 ![highlevel](highlevel.png)
+
 ---
 
 ## 💼 Use Case
