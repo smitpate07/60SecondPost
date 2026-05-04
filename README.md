@@ -5,26 +5,32 @@
 
 ---
 
-## 📌 The Problem
+## 📌 Problem Statement
 
-Small business owners waste **45–90 minutes per Instagram post** — editing photos, writing captions, researching hashtags, and manually uploading. Most give up and post inconsistently, killing their reach.
+Posting consistently to Instagram is one of the most time-consuming parts of social media management. The bottleneck is rarely taking the photo — it is writing a caption that resonates, then researching and adding the right hashtags to maximize reach. For a solo creator, small business, or marketing team managing multiple accounts, this ritual repeats every single day.
+
+**The typical manual process:**
+
+1. Take or select a photo
+2. Open Instagram (or a scheduling tool)
+3. Write a caption from scratch — usually 5–10 minutes of staring at a blank box
+4. Research relevant hashtags — another 3–5 minutes
+5. Upload, preview, and publish
+
+**The result:** A task that should feel quick takes 10–15 minutes of focused attention, multiple times per week.
 
 ---
 
-## 🎥 Demo Video
+ ## The Solution
 
-<div>
-    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
-      <p></p>
-    </a>
-    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/796f743b826a425bbccdd0b89f05bb07-b96e6b9358d0f4d5.jpg#t=0.1">
-    </a>
-  </div>
+The N8N workflow eliminates steps 2–5 entirely. You send a photo to a private Telegram bot, and within seconds:
 
-> ▶️ Click the image above to watch the full demo — one photo, one prompt, live on Instagram in under 60 seconds. No agency. No designer. Just automation.
+- **Gemini 2.5 Flash** analyzes the image using computer vision and generates a compelling 2–3 sentence caption tailored to the photo's content, mood, and subject
+- Gemini also generates 10 targeted hashtags relevant to the image
+- The photo is published directly to your Instagram Business/Creator account via the official Facebook Graph API
+- Your Telegram bot replies with a confirmation showing exactly what was posted
+
 ---
-
 
 ## 🗺️ High-Level N8N Workflow
 
@@ -32,18 +38,6 @@ Small business owners waste **45–90 minutes per Instagram post** — editing p
 
 ---
 
-## 💼 Use Case
-
-A small business owner — restaurant, boutique, freelancer, creator — takes a photo on their phone. Instead of spending an hour editing it, writing a caption, and manually uploading, they:
-
-1. Send the photo to a Telegram bot with a short prompt (e.g. *"Cozy café vibes, warm lighting"*)
-2. The bot edits the image, writes a caption and 10 hashtags using AI
-3. They review the preview and tap **✅ Approve & Post**
-4. The post goes live on Instagram automatically
-
-**Real-world example:** A restaurant posting daily specials used to spend 1 hour per post on photography editing and caption writing. With Telegram bot, the chef sends a photo from the kitchen — the post is live before the lunch rush.
-
----
 
 ## 💰 Business Impact
 
@@ -120,4 +114,17 @@ Bot asks user to describe changes → re-runs full AI pipeline with new instruct
 
 ---
 
+## 🎥 Demo Video
+
+<div>
+    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
+      <p></p>
+    </a>
+    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/796f743b826a425bbccdd0b89f05bb07-b96e6b9358d0f4d5.jpg#t=0.1">
+    </a>
+  </div>
+
+> ▶️ Click the image above to watch the full demo — one photo, one prompt, live on Instagram in under 60 seconds. No agency. No designer. Just automation.
+---
 *Built to give every small business owner a social media team in their pocket — without the agency price tag.*
