@@ -1,6 +1,7 @@
 # 🚀 60SecPost — AI-Powered Instagram Publisher for Small Businesses
 
 > **Turn a raw photo into a publish-ready Instagram post in under 60 seconds — no designer, no copywriter, no scheduling tool.**
+
 > Built on self-hosted N8N · Google Gemini · Telegram · Meta Graph API
 
 ---
