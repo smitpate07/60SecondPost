@@ -109,8 +109,6 @@ Bot asks user to describe changes → re-runs full AI pipeline with new instruct
 ## ⚠️ Known Limitations
 
 - Instagram token expires every 60 days — manual refresh required.
-- `/tmp` session storage clears on server restart — in-progress sessions will fail
-- One image per post — carousel not yet supported
 - Gemini image editing may alter faces slightly — works best with landscape/product shots
 
 ---
