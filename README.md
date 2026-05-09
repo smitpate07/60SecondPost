@@ -116,11 +116,11 @@ Bot asks user to describe changes → re-runs full AI pipeline with new instruct
 ## 🎥 Demo Video
 
 <div>
-    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
+    <a href="https://www.loom.com/share/0f98a057cd2745a39effd6ab5504fa7a">
       <p></p>
     </a>
-    <a href="https://www.loom.com/share/796f743b826a425bbccdd0b89f05bb07">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/796f743b826a425bbccdd0b89f05bb07-b96e6b9358d0f4d5.jpg#t=0.1">
+    <a href="https://www.loom.com/share/0f98a057cd2745a39effd6ab5504fa7a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0f98a057cd2745a39effd6ab5504fa7a-7564f4ccd32a27bc.jpg#t=0.1">
     </a>
   </div>
 
