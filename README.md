@@ -28,7 +28,7 @@ The N8N workflow eliminates steps 2–5 entirely. You send a photo to a private 
 
 - **Gemini 2.5 Flash** analyzes the image using computer vision and generates a compelling 2–3 sentence caption tailored to the photo's content, mood, and subject.
 - Gemini also generates 10 targeted hashtags relevant to the image.
-- The photo is published directly to your Instagram Business/Creator account via the official Facebook Graph API
+- The photo is published directly to your Instagram Business/Creator account via the official Facebook Graph API.
 - Your Telegram bot replies with a confirmation showing exactly what was posted
 
 ---
