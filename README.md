@@ -39,7 +39,6 @@ The N8N workflow eliminates steps 2–5 entirely. You send a photo to a private 
 
 ---
 
-
 ## 💰 Business Impact
 
 | Metric | Before PostPilot | After PostPilot |
