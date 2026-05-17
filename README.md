@@ -15,7 +15,7 @@ Posting consistently to Instagram is one of the most time-consuming parts of soc
 1. Take or select a photo.
 2. Open Instagram (or a scheduling tool).
 3. Write a caption from scratch — usually 5–10 minutes of staring at a blank box.
-4. Research relevant hashtags — another 3–5 minutes
+4. Research relevant hashtags — another 3–5 minutes.
 5. Upload, preview, and publish
 
 **The result:** A task that should feel quick takes 10–15 minutes of focused attention, multiple times per week.
