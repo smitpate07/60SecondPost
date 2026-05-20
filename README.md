@@ -65,7 +65,7 @@ The N8N workflow eliminates steps 2–5 entirely. You send a photo to a private 
 ### Why self-hosted N8N over cloud tools?
 
 - **Data privacy** — images and captions never leave your server.
-- **No execution limits** — Zapier/Make charge per workflow run
+- **No execution limits** — Zapier/Make charge per workflow run.
 - **Full customisation** — every node, every expression is configurable
 - **Cost** — $5–$10/month VPS vs $50–$200/month for equivalent cloud automation
 
