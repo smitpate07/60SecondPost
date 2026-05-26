@@ -124,5 +124,6 @@ Bot asks user to describe changes → re-runs full AI pipeline with new instruct
   </div>
 
 > ▶️ Click the image above to watch the full demo — one photo, one prompt, live on Instagram in under 60 seconds. No agency. No designer. Just automation.
+
 ---
 *Built to give every small business owner a social media team in their pocket — without the agency price tag.*
