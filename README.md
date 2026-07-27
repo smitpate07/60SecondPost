@@ -98,7 +98,7 @@ Bot asks user to describe changes → re-runs full AI pipeline with new instruct
 | Service | Cost |
 |---------|------|
 | Google Gemini 2.5 Flash | ~$0.00 (free tier) |
-| Gemini Image Editing | ~$1.00 |
+| Gemini Image Editing | ~$2.00 |
 | imgbb, Meta API, Telegram | $0.00 (all free) |
 | N8N self-hosted | $0.00 |
 | **Total** | **~$6–$10/month** |
