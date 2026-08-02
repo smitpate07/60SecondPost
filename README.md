@@ -108,7 +108,7 @@ Bot asks user to describe changes → re-runs full AI pipeline with new instruct
 ## ⚠️ Known Limitations
 
 - Instagram token expires every 60 days — manual refresh required.
-- Gemini image editing may alter faces slightly — works best with landscape/product shots.
+- Gemini image editing may alter faces slightly — works best with landscape/product shots
 
 ---
 
